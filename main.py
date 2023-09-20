@@ -1,2 +1,2 @@
-def hello(msg) :
-    print("Hellow World!" + msg)
+def hello(name) :
+    print("Hellow World!" + name)
